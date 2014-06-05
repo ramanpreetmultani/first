@@ -1,0 +1,16 @@
+$ git init
+for starting repository
+$ git status
+for status
+$ git log 
+for commit history
+$ git checkout -b branchname
+for switching to new branch
+git config --list
+for configuration list
+git --global user.email xyz@abc.com
+git --global user.name "trdf"
+git push origin master 
+for pushing on github
+git remote add origin url
+for declaring url on github
