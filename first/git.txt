@@ -1,11 +1,5 @@
 $ git init
 for starting repository
-git add
-for adding file on staging area
-git rm
-for adding deleted file on staging area
-git commit 
-for commiting
 $ git status
 for status
 $ git log 
